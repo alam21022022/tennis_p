@@ -1,0 +1,23 @@
+header {
+  width: 30px;
+  cursor: pointer;
+  background-color: rgba(245, 238, 238, 0);
+  width: 30px;
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dark {
+  background-color: rgba(0, 0, 0, 0.938);
+  color: aliceblue;
+}
